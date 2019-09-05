@@ -16,8 +16,8 @@ You will need to follow the Lambda School Git Workflow to add a file to this pro
   - [x] Run your usual git commands for adding/commiting and pushing **Be sure to push to your branch!**
 - [x] Create a Pull-Request to submit your work
   - [x] Use your own student fork as the base (compare across forks, base-fork -> master).
-  - [ ] Add your TL as a reviewer on the Pull-Request
-- [ ] TL then will count the Assignment as done by merging the HW back into master "STUDENT FORK".
+  - [x] Add your TL as a reviewer on the Pull-Request
+- [x] TL then will count the Assignment as done by merging the HW back into master "STUDENT FORK".
 
 ## Part Two:
 
@@ -32,15 +32,15 @@ In order to do this, you **do not** need to create new forks of these projects. 
 - [x] Create a Pull-Request to submit your work
   - [x] Use your own student fork as the base (compare across forks, base-fork -> master).
   - [x] Add your TL as a reviewer on the Pull-Request
-- [ ] TL then will count the Assignment as done by merging the HW back into master "STUDENT FORK".
+- [x] TL then will count the Assignment as done by merging the HW back into master "STUDENT FORK".
 
 ## Stretch
 
-- [ ] While the processes learned here will set you up to be successful in most situations, they are just the tip of the iceberg in learning Git. Independantly research the following topics to learn more about Git.
+- [x] While the processes learned here will set you up to be successful in most situations, they are just the tip of the iceberg in learning Git. Independantly research the following topics to learn more about Git.
 
-  - [ ] Research and understand what a `merge conflict` is and how to resolve it.
-  - [ ] Reseach the Git commands `pull`, `rebase`, `merge`. These commands will allow you to bring in changes that other developers push to the master branch.
-  - [ ] Reseach the Git commands `reset`, `revert`, `clean`. These commands will allow you to go back and ammends previous commits you have made.
+  - [x] Research and understand what a `merge conflict` is and how to resolve it.
+  - [x] Reseach the Git commands `pull`, `rebase`, `merge`. These commands will allow you to bring in changes that other developers push to the master branch.
+  - [x] Reseach the Git commands `reset`, `revert`, `clean`. These commands will allow you to go back and ammends previous commits you have made.
 
 - [x] Research and set up a Graphical User Interface (GUI) Git console. _(opted to not do this since using Linux and very little support for GUI)_
 
